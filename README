@@ -1,0 +1,14 @@
+examples from the "Play for Scala" book
+to run the examples you need the following
+
+jdk version 1.7.0_9
+play framework version 2.1.5
+jre version 1.7.0_80
+
+the following has to be in the path
+jre1.7.0_80\bin
+jdk1.7.0_79\bin
+jdk1.7.0_79
+play-2.1.5
+
+and JAVA_HOME=jdk1.7.0_79
