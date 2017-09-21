@@ -12,3 +12,6 @@ jdk1.7.0_79
 play-2.1.5
 
 and JAVA_HOME=jdk1.7.0_79
+
+todo:
+dockerise the app
